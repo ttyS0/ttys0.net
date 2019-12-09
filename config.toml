@@ -1,4 +1,4 @@
-baseURL = "http://ttys0.net/"
+baseURL = "https://ttys0.net/"
 languageCode = "en-us"
 title = "TTYS0"
 theme = "aerial"
