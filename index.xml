@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TTYS0</title>
+    <link>http://ttys0.net/</link>
+    <description>Recent content on TTYS0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://ttys0.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
