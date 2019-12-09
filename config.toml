@@ -1,3 +1,22 @@
-baseURL = "http://example.org/"
+baseURL = "http://ttys0.net/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TTYS0"
+theme = "aerial"
+
+[params]
+  name = "Sean Johnson"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "fab fa-twitter"
+  link = "https://twitter.com/ttys0"
+
+[[params.social]]
+  medium = "GitHub"
+  icon = "fab fa-github"
+  link = "https://github.com/ttyS0"
+
+[[params.social]]
+  medium = "Blog"
+  icon = "fas fa-blog"
+  link = "https://108minutes.net"
