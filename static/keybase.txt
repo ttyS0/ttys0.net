@@ -1,0 +1,86 @@
+==================================================================
+https://keybase.io/ttys0
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ttys0.net
+  * I am ttys0 (https://keybase.io/ttys0) on keybase.
+  * I have a public key with fingerprint E28D 44F0 923F 4DC3 782E  4776 4753 67D0 86B9 8C7B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01015138a271805604540f30d193bc84e43707e90e93f1ae383f311e925b442c757b0a",
+      "fingerprint": "e28d44f0923f4dc3782e4776475367d086b98c7b",
+      "host": "keybase.io",
+      "key_id": "475367d086b98c7b",
+      "kid": "0101c44669929703136a6d9fe84ec231d69a5223af0351a9fa5d60a1680cd7903de10a",
+      "uid": "ecfff5d1fb741d15573d0e242a809f00",
+      "username": "ttys0"
+    },
+    "merkle_root": {
+      "ctime": 1575938767,
+      "hash_meta": "3ff491b54821d307a4c4f475af0b397e9d6f80b2a81784eac1f2f73cf1784931",
+      "seqno": 13166171
+    },
+    "revoke": {
+      "sig_ids": [
+        "9131843dd3e81fc871672bb5535ca29519cb02913225eb19c25e1a616c38657b0f"
+      ]
+    },
+    "service": {
+      "hostname": "ttys0.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1575938768,
+  "expire_in": 157680000,
+  "prev": "d2dd9f853c01c31b3e001f3aeeae39c10fb643321a7a028cad52d960c9fd986f",
+  "seqno": 96,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtU2tMFUcUvlxA8IFQpCpWFFbFxiid2dmd3SVVokGxPlqp1ZpYue7uzMAVuHu9
+u15EBBuLGhXRWDRoGrUpgiQqVtM2GESttrYR0ZbapNrEVwz4qKDWttpqOktqbJru
+n8k5+53vfOc7M1viIj2xETlz8y+sba4qizh7y/Asunf7WplgWKRUyCwTCmnvQYsI
+tR1foZ8ImQKAAMoQqbqoQBXIGEiyBBgCBGrIMFWJSkgBCtUA1RCDOkUqYghCqomy
+IUmiqciKAXRhvMD8gXwaCob8AYfTUlElksSAJiImERMpqkglRcGSIiOsEKBiQ1NN
+xeCFBZbtVnBxhm7TDL/Fczzw9cr7H/wL3aYkYaxpoqYABBHWMdEY5ZJNEUGCNV0W
+RaQzgGSoa0yXCQY6xCowiaIBRCjs1b2sl46ajDGZQGYoEiRQlhVEABUlUVeBxgBw
+gTYNBfRiytGOU2oDoXy8UExDhUXUF7Isx3XWdPzufygrsoZUBSt8Ot0u8BVTR+dl
+iDFJg4YsqSIkCCi6ZEqMT8g1GkjjJhPMVGDwnlDhY+gmZCJTkMncUEOQi7Dp0oDF
+OyCIMVQglxCiYauQut1tfz43zRYyFwoaB6jSiRAiBFEVMlNVIFZEw5BlJJu6qMlQ
+Mw0gcpwoytTgET+gjiE2kYrdnTJhUbnbLxT2m7307p7+PX9GgDpcUTBkOZZpFfF0
+geME7UzXF6c06OJKqOH7h8Fn+AOEXxFeEaYh228F+BQc+V/L1PECXR70h6jPH+hN
+84Xxz+1Dw5ySiIRvWZWRyfePoIEoAJAhnVJ+NzUTAmZgCSER6ooORNXUiSwSDQNT
+Y0RTMXvhoYa5Tj2fc3LjArqzLESF8n7rvSjKExHrSRmcFnV9U3bP1qzZp5Zn5ISf
+P6tor/umPP36JjzPeHH806RPZd/o4upnX3s/Tz/TPXT4UXX2VzTny+3egUvuPG59
+c8SvlWMLWe6AXUsv76o70zYjsb/dubHPpElrdmS3tzkRTvsY7zuxkQ/OepRZu1Nj
+pIRinc3f7Km8FRWddLipvu6SmF77of1R5ZQHH/R90ppeMGVkfR9ix+18/UDExZ+6
+Xr67a3jrkIHWgg2ZlaV/rHoyYVTq2GH1jRPDnX8uMWvzV/2eDL5ZcDr2cnT3+olx
+C5925R3dcAdbn9wclL7+7hct22adyM47d+TAnseN8S2j2f5T1T1ZN0+tTRuwb0SL
+x0qpeeXJjrmBeb/EBC9ODaeLw95o2Oj9Mass/vb2uszEnVWeisnTcvZueyRgGPXt
+Jvu9mbH+2tMrow9Obfwhq6NpanVic6rzc8fx1rhg0sgbD65MnjvhaPLNttQrx+dc
+nV/x6PLJMY70vlkxvRFPaZvddXXlqBXJJwc0NAV3HmvfUmQUCT09ld2DLw3MyKha
+vfhc4+72hnWTq5s/2zZif2duye2EvSlDgjPj+6uJ36/4GJ3YF1gz5n7us8bF7168
+PvRS/czpamxtTcwNgW1uIEfKvKvvJZfvs8/767sPz7m6tCP3cN68hLyH1w4eiuxf
+v1FPX3en61zXS1Hf7fntUFrOq4PqpnW2NGmlyeMia0q6K5qPkQsPJ4TPV92P2ryq
+I+WtvyIL7ZLajJq3616LSRv3bEaS528=
+=Cvnb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ttys0
+
+==================================================================
